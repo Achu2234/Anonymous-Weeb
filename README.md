@@ -32,4 +32,4 @@
 <p><a href="https://www.buymeacoffee.com/AnonymousWeeB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AnonymousWeeB" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymous-weeb&show_icons=true&theme=tokyonight&title_color=ff0000&bg_color=ffffff&locale=en" alt="anonymous-weeb" /></p>
-<img src = https://tenor.com/6ZtQ.gif width = 100 align = "right">
+<img src = https://i.pinimg.com/originals/63/d0/b7/63d0b791c8bb9c473e822b380d153c8d.gif width = 100 align = "right">
